@@ -61,9 +61,7 @@
         <div class="container mx-auto px-6 text-center">
             <h2 class="text-3xl font-bold mb-4 text-slate-900">¿Tienes un negocio?</h2>
             <p class="text-gray-600 mb-8 max-w-xl mx-auto">Únete a la red NEXUS y empieza a recibir clientes verificados directamente a tu WhatsApp.</p>
-            <a href="https://wa.me/TUNUMERO" class="inline-block bg-slate-900 text-white px-10 py-4 rounded-full font-black hover:bg-blue-600 transition shadow-xl">EMPEZAR GRATIS HOY</a>
-            <a href="https://wa.me/17863239057?text=Hola%20Rey,%20estoy%20interesado%20en%20formar%20parte%20de%20NEXUS%20y%20anunciar%20mi%20negocio." class="inline-block bg-slate-900 text-white px-10 py-4 rounded-full font-black hover:bg-blue-600 transition shadow-xl text-center">EMPEZAR GRATIS HOY</a>       
-    </div>
+           <a href="https://wa.me/17863239057?text=Hola%20Rey,%20me%20interesa%20unirme%20a%20NEXUS.%20¿Podrías%20darme%20detalles%20para%20anunciar%20mi%20negocio?" class="inline-block bg-slate-900 text-white px-10 py-4 rounded-full font-black hover:bg-blue-600 transition shadow-xl text-center">EMPEZAR GRATIS HOY</a>    </div>
  </footer>
     <script>
         // BASE DE DATOS - Aquí es donde agregarás los futuros negocios
