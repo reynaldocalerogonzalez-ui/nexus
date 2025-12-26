@@ -61,9 +61,43 @@
         <div class="container mx-auto px-6 text-center">
             <h2 class="text-3xl font-bold mb-4 text-slate-900">¿Tienes un negocio?</h2>
             <p class="text-gray-600 mb-8 max-w-xl mx-auto">Únete a la red NEXUS y empieza a recibir clientes verificados directamente a tu WhatsApp.</p>
-           <a href="https://wa.me/17863239057?text=Hola%20Rey,%20me%20interesa%20unirme%20a%20NEXUS.%20¿Podrías%20darme%20detalles%20para%20anunciar%20mi%20negocio?" class="inline-block bg-slate-900 text-white px-10 py-4 rounded-full font-black hover:bg-blue-600 transition shadow-xl text-center">EMPEZAR GRATIS HOY</a>    </div>
- </footer>
-    <script>
+           <a href="https://wa.me/17863239057?text=Hola%20Rey,%20me%20interesa%20unirme%20a%20NEXUS.%20¿Podrías%20darme%20detalles%20para%20anunciar%20mi%20negocio?" class="inline-block bg-slate-900 text-white px-10 py-4 rounded-full font-black hover:bg-blue-600 transition shadow-xl text-center">COMIENZA AHORA/a>    </div>
+           <section class="py-20 bg-slate-50">
+    <div class="container mx-auto px-6">
+        <h2 class="text-3xl font-bold text-center mb-12 text-slate-900">Trabajos Recientes en la Red</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div class="bg-white rounded-xl overflow-hidden shadow-md">
+                <div class="h-48 bg-slate-200 flex items-center justify-center text-slate-400 italic">Espacio para Foto</div>
+                <div class="p-6"><h3 class="font-bold">Remodelación</h3><p class="text-sm">Realizado por: Plomería El Rayo</p></div>
+            </div>
+            </div>
+    </div>
+</section>
+
+<section class="py-20 bg-white">
+    <div class="container mx-auto px-6 text-center">
+        <h2 class="text-3xl font-bold mb-12 text-slate-900">Lo que dicen de NEXUS</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
+            <div class="p-8 border border-slate-100 rounded-2xl shadow-sm italic">
+                <p>"Gracias a Nexus conseguí 3 clientes nuevos en mi primera semana."</p>
+                <span class="font-bold text-blue-600">- Carlos R. (Plomero)</span>
+            </div>
+            <div class="p-8 border border-slate-100 rounded-2xl shadow-sm italic">
+                <p>"Buscaba a alguien para llevarse unos metales y fue súper rápido."</p>
+                <span class="font-bold text-blue-600">- María L. (Cliente)</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer class="bg-white border-t border-gray-200 py-20" id="unirse">
+    <div class="container mx-auto px-6 text-center">
+        <h2 class="text-3xl font-bold mb-4 text-slate-900">¿Tienes un negocio?</h2>
+        <p class="text-gray-600 mb-8 max-w-xl mx-auto">Únete a la red NEXUS y empieza a recibir clientes verificados directamente a tu WhatsApp.</p>
+        <a href="https://wa.me/17863239057?text=Hola%20Rey,%20me%20interesa%20unirme%20a%20NEXUS.%20¿Podrías%20darme%20detalles%20para%20anunciar%20mi%20negocio?" class="inline-block bg-slate-900 text-white px-10 py-4 rounded-full font-black hover:bg-blue-600 transition shadow-xl text-center">COMIENZA AHORA</a>
+    </div>
+</footer> 
+</section>    <script>
         // BASE DE DATOS - Aquí es donde agregarás los futuros negocios
         const businesses = [
             {
